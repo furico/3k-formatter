@@ -16,7 +16,7 @@ function App() {
         <Grid minH="10vh" p={3}>
           <ColorModeSwitcher justifySelf="flex-end" />
           <VStack spacing={8}>
-            <Editor w='960px'/>
+            <Editor w='1200px'/>
           </VStack>
         </Grid>
       </Box>
