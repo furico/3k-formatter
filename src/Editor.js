@@ -14,7 +14,7 @@ import {
 
 export const Editor = props => {
   const [output, setOutput] = useState("");
-  const [value, setValue] = React.useState("1")
+  const [value, setValue] = useState("1")
 
   const handleInputChange = e => {
     const inputValue = e.target.value;
