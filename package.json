@@ -2,6 +2,7 @@
   "name": "3k-formatter",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://furico.github.io/3k-formatter",
   "dependencies": {
     "@chakra-ui/react": "^1.0.0",
     "@emotion/react": "^11.0.0",
